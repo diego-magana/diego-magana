@@ -15,4 +15,4 @@ Selected implementations are pinned below. Writing is at **[diego-magana.github.
 
 ---
 
-[Writing](https://diego-magana.github.io) · [LinkedIn](https://www.linkedin.com/in/diego-daryl-magana) · [Email](mailto:diegomagana@gmail.com)
+[Writing](https://diego-magana.github.io) · [LinkedIn](https://www.linkedin.com/in/diego-daryl-magana) · [Email](mailto:diegomagana@gmail.com) · [Resume](https://diego-magana.github.io/assets/files/resume.pdf)
