@@ -10,7 +10,7 @@ Selected implementations are pinned below. Writing is at **[diego-magana.github.
 **Recent Writing** — [diego-magana.github.io](https://diego-magana.github.io)
 
 <!-- POSTS:START -->
-*Writing in progress — implementations live at [micrograd](https://github.com/diego-magana/micrograd) and [makemore](https://github.com/diego-magana/makemore).*
+*Writing in progress — implementations live at [micrograd](https://github.com/diego-magana/micrograd), [makemore](https://github.com/diego-magana/makemore), and [gpt](https://github.com/diego-magana/gpt).*
 <!-- POSTS:END -->
 
 ---
